@@ -2,7 +2,7 @@
 This script allows you to send automatic messages on https://web.whatsapp.com/
 
 ## Requirements
-- You must be already logged in into https://web.whatsapp.com/\-
+- You must be already logged in into https://web.whatsapp.com/
 - Python3
 
 ## Installation
